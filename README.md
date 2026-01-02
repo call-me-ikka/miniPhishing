@@ -12,6 +12,8 @@ A lightweight project designed for educational purposes to demonstrate how phish
    `git clone https://github.com/call-me-ikka/miniPhishing.git`
 2. Navigate to the folder:
    `cd miniPhishing`
+3. Run:
+     `./miniPhishing.sh`
 
 ## Disclaimer
 This project is for educational purposes only. Do not use it for any illegal activities.
