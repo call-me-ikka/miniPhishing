@@ -12,7 +12,8 @@ A lightweight tool designed for educational purposes and cybersecurity awareness
 2. Clone the repository:
    
  git clone https://github.com/your-username/miniPhishing.git
-2. Navigate to the folder:
+ Navigate to the folder:
+ 
    cd miniPhishing
 
 ## Disclaimer
