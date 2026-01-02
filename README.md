@@ -1,20 +1,16 @@
-
 # miniPhishing
 
-A lightweight tool designed for educational purposes and cybersecurity awareness testing. This project is optimized for use on Kali Linux.
+A lightweight project designed for educational purposes to demonstrate how phishing mechanisms work.
 
-## Prerequisites
-* Kali Linux or any Debian-based system.
-* Python 3.x or PHP (depending on your project files).
+## Features
+* Simple and easy to set up.
+* Educational tool for cybersecurity awareness.
 
-## Installation & Usage
-1. Open your terminal in Kali Linux.
-2. Clone the repository:
-   
- git clone https://github.com/your-username/miniPhishing.git
- Navigate to the folder:
- 
-   cd miniPhishing
+## How to Install
+1. Clone the repository:
+   `git clone https://github.com/your-username/miniPhishing.git`
+2. Navigate to the folder:
+   `cd miniPhishing`
 
 ## Disclaimer
 This project is for educational purposes only. Do not use it for any illegal activities.
