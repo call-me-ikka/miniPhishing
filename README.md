@@ -1,4 +1,4 @@
-# miniPhishing
+
 # miniPhishing
 
 A lightweight tool designed for educational purposes and cybersecurity awareness testing. This project is optimized for use on Kali Linux.
@@ -10,5 +10,10 @@ A lightweight tool designed for educational purposes and cybersecurity awareness
 ## Installation & Usage
 1. Open your terminal in Kali Linux.
 2. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/miniPhishing.git](https://github.com/your-username/miniPhishing.git)
+   
+ git clone https://github.com/your-username/miniPhishing.git
+2. Navigate to the folder:
+   cd miniPhishing
+
+## Disclaimer
+This project is for educational purposes only. Do not use it for any illegal activities.
